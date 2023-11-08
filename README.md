@@ -13,18 +13,20 @@ https://github.com/muhammadha04/HoloAssist/assets/103769302/063a5086-5c0f-4535-9
 
 + for the pre-trained YoloV7, please refer to: [PINTO model zoo](https://github.com/PINTO0309/PINTO_model_zoo).
 
-## Model Placement
 
-+ Place the YoloV7 ONNX model in the directory Assets\Application\Model indicated below.
 
-- The application expects the model to be in this specific directory path to function correctly, make sure to move it before opening the project.
-
-![image](https://github.com/muhammadha04/HoloAssist/blob/master/Screenshot_3.png)
 
 ## Project Setup
 + Clone the repository to your local machine using " git clone https://github.com/muhammadha04/HoloVisionAssist.git "
++ ### Model Placement
+
+  +  Place the YoloV7 ONNX model in the directory Assets\Application\Model indicated below.
+
+  -   The application expects the model to be in this specific directory path to function correctly, make sure to move it before opening the project.
 
 + Open the project in Unity.
+  
+![image](https://github.com/muhammadha04/HoloAssist/blob/master/Screenshot_3.png)
 
 + Below is the correct build settings. This includes architecture, build type, and other relevant configurations required for the project to work on HoloLens 2. (VS22)
 
