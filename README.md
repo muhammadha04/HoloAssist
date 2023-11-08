@@ -26,7 +26,8 @@ https://github.com/muhammadha04/HoloAssist/assets/103769302/063a5086-5c0f-4535-9
 
 + Open the project in Unity.
   
-![image](https://github.com/muhammadha04/HoloAssist/blob/master/Screenshot_3.png)
+  ![Screenshot_3](https://github.com/muhammadha04/HoloVisionAssist/assets/103769302/9c69204f-4141-484c-bece-6f4fc0dc52d9)
+
 
 + Below is the correct build settings. This includes architecture, build type, and other relevant configurations required for the project to work on HoloLens 2. (VS22)
 
